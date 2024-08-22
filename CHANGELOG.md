@@ -1,5 +1,27 @@
 # @hyperlane-xyz/registry
 
+## 2.6.0
+
+### Minor Changes
+
+- 5502be8: Add new renzo warp deployment config and addresses that include zircuit
+- a000b2a: Enroll worldchain, xlayer, cheesechain, zircuit validators to default ISMs
+- 17926af: add rootstock mainnet
+- 488c6eb: Add new renzo warp config and addresses
+- 3f260fa: Rename fhenix to fhenixtestnet, and update some native token names.
+- 06faae6: Update zircuit safe tx url
+- 43866ce: Add Rootstock testnet chain
+- b552ee4: Update zircuit explorer metadata
+- e356395: Add forma mainnet addresses.
+- b661127: Add Eclipse SOL token metadata
+- f50d153: Add stride testnet
+- 78b26eb: Fix TIA-mantapacific-neutron warp config by removing reference to the TIA arbitrum neutron HypCollateral router
+
+### Patch Changes
+
+- c5402da: Update core testnets to match AW infra
+- 7a12c35: Replace broken arbitrum sepolia RPC
+
 ## 2.5.0
 
 ### Minor Changes
